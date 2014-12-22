@@ -37,10 +37,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Ciceronis amor· = Tullies loue VVherein is discoursed the prime of Ciceroes youth, setting out in li
+
+1. To the right honorable
+Ferdinando Stanley, Lord
+Strange, enobled with all titles
+that Honor may afforde or vertue
+challenge, Robert Greene
+wisheth encrease of vertuous
+and Lordly resolutions.
+
+1. To the gentle Readers health.
+
+1. Ad Lectorem Hexasticon.
+
+1. Ad Lectorem de Ciceronis
+amore, Hexasticon.
+
 #####Body#####
 
-1. Tullies Oration to the Senate.
+1. Tullies Loue.
+
+    _ Tullies Oration to the Senate.
 
 **Types of content**
 
